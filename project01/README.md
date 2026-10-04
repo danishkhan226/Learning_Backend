@@ -166,6 +166,4 @@ GET /api/music/album/:albumId
 - The application uses role-based middleware to restrict access to artist-only endpoints.
 - Uploaded music files are stored through ImageKit and the resulting URL is saved in MongoDB.
 
-## License
 
-This project is for educational and backend development practice.
